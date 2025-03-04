@@ -1,2 +1,3 @@
 Belajar git
 2. Latihan pull push
+3. belajar branching dan merging
